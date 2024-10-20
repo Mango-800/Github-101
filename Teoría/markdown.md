@@ -1,3 +1,11 @@
+# Quién soy
+
+Soy un estudiante de ingeniería mecatrónica.
+Me gusta comer cualquier tipo de papas. Si tienen queso mucho mejor.
+Mi animal favorito son los gatos. Tengo cuatro actualmente.
+Mi videojuego favorito es Sekiro Shadows Die Twice. Es un soulslike bien chingón.
+Gracias, es todo. :)
+
 # Introducción a Markdown :)
 
 Markdown es un lenguaje de marcado ligero que se utiliza comúnmente para formatear texto de una manera sencilla  y legible para la web. Fue creado por John Gruber y Aaron Swartz en 2004  con el objetivo de proporcionar una forma fácil de escribir contenido con formato en línea sin la necesidad de utilizar herramientas complicadas de edición de texto o HTML.
@@ -37,7 +45,7 @@ Para citas anidadas, simplemente se ponen varios > :
 Se ve como:
 >> Asies, esta es una cita anidada
 
-### Listas
+### Lista
 Para crear listas se pueden usar * , -, o +
 - Cuac 1 (con guión)
 - Cuac 2 (con guión)
