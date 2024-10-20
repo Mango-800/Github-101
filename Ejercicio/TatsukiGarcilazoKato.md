@@ -1,0 +1,87 @@
+<p align="center" style="display: flex; justify-content: center;">
+    <img src="https://i0.wp.com/totemanimal.org/wp-content/uploads/2013/02/0121.gif?resize=216%2C159&ssl=1" width="10%" style="margin: 0;" />
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&duration=2000&pause=500&color=E66FFF&center=true&vCenter=true&width=435&lines=%F0%9F%90%89I%27m+Tatsuki+%F0%9F%90%89;%F0%9F%90%88About+me+%3AD%F0%9F%90%88"
+            alt="Typing SVG" style="margin: 0;" />
+    </a>
+    <img src="https://vignette2.wikia.nocookie.net/sidekicksmanhwa/images/3/3c/Flaming_Charizard.gif/revision/latest?cb=20150516182704" width="10%" style="margin: 0;" />
+</p>
+
+
+
+[//]: <> (<p align="right">)
+[//]: <> (    <img src="https://komarev.com/ghpvc/?username=se2510&color=9afbfc&style=plastic&label=+Curiosos+Encontrados+:3">)
+[//]: <> (</p>)
+
+<p align="center">
+	I'm Tatsuki Garcilazo Kato.
+</p>
+<!--  -->
+
+[//]:<p align = "center">
+[//]:  <img src="gif/dazai.gif" width="498" height="276"  />
+[//]:</p>
+
+
+
+## <p align="center"> This is some about me... </p>
+
+<p>
+  <img src="gif/cat.gif" align = "right" width="15%"  />
+</p>
+<!--- SODVI's member (student group that develops videogames) 👾 -->
+
+- Mechatronic Engineer ⚡
+- Robots passionate 🤖
+- member of "Taller de Robótica Abierta" 💡
+- member of "BAJA SAE Puma off-road" 🛞
+- SIAFI's member (Artifitial Inteligence Society)
+- Nikkei (Mexico-Japan)
+- Japanese Teacher 🗾
+- A learner force (CliftonStrengths)
+- Papas con queso enjoyer 🍟
+
+>  一期一会 Ichigo Ichie (una vez, un encuentro). -Frase japonesa
+
+## <p align="center"> Current technologies that I'm learning 👾 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,c,cpp,python,java" width="700"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,github,latex" width="700"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,arduino,ros" width="700"/>
+  </a>
+</p>
+
+## <p align="center"> Contact me.  :envelope: </p>
+
+
+<div align="center">
+<a href="https://www.facebook.com/tatsuki.garcilazo">
+  <img src="img/facebook.png" width="8%" alt="Facebook">
+</a>
+
+<a href="https://www.instagram.com/tachan_800/">
+  <img src="img/instagram.png" width="8%" alt="Instagram">
+</a>
+
+<a href="https://www.youtube.com/@tatsukigarcilazo6779">
+  <img src="img/youtube.png" width="8%" alt="Youtube">
+</a>
+
+<a href="https://x.com/tachan800">
+  <img src="img/twitter.png" width="8%" alt="Twitter / X">
+</a>
+
+<a href="https://www.linkedin.com/in/tatsuki-garcilazo-kato/">
+  <img src="img/linkedin.png" width="8%" alt="Linkedin">
+</a>
+</div>
